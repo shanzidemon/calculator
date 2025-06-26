@@ -17,8 +17,9 @@ This is a simple terminal-based calculator written in C++. It allows users to pe
    ```bash
    g++ calculator.cpp -o calculator
 2.Run the executable:
+  ```bash
 ./calculator
-
+```
 3.Follow the prompts:
 
 Enter the first number
